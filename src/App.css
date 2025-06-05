@@ -1,7 +1,6 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: #1e1e1e;
   color: #f0f0f0;
 }
 
@@ -16,31 +15,31 @@ body {
 }
 
 header h1 {
-  font-size: 3rem;
-  margin-bottom: 0.5rem;
-  color: #00ffe1;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #4400ff;
 }
 
 .subtitle {
-  font-size: 1.2rem;
-  color: #bbb;
-  margin-bottom: 2rem;
+  font-size: 0.8rem;
+  color: #070707;
+  margin-bottom: 0.5rem;
 }
 
 .section {
-  margin: 1.5rem 0;
+  margin: 0.5rem 0;
 }
 
 .section h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  color: #ff8c00;
+  color: #8400ff;
 }
 
 .section p,
 .section ul {
   font-size: 1rem;
-  color: #ddd;
+  color: #242424;
   margin: 0 auto;
   max-width: 600px;
 }
@@ -53,4 +52,3 @@ header h1 {
 .section ul li {
   margin: 0.3rem 0;
 }
-
