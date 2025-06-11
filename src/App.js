@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="portfolio-container">
       <header>
-        <h1>Hi, I'm Vedant</h1>
+        <h1>Hi, Myself Vedant</h1>
         <p className="subtitle">Aspiring Software Developer</p>
       </header>
 
